@@ -160,19 +160,23 @@ ul li span:hover {
     justify-content: center;
     align-items: center;
     overflow: hidden;
+    width: 100%;
     
     
   }
   #input-box {
     text-align: center;
+    width: 75%;
   
   }
 
   button{
     display: flex;
     text-align:left ;
-    
+    justify-content: centerss;
+    width: 30px;
     padding-left:1px;
+    margin-left: 5px;
   }
   
 
